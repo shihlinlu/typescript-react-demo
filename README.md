@@ -1,3 +1,3 @@
 # typescript-react-demo
 
-Working demo of TypeScript of React. 
+Working demo of TypeScript, React, and Redux. 
