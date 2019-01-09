@@ -6,8 +6,11 @@ const getExclamationMarks = (numChars: number) => {
 
 export interface Props {
     name: string;
+    /** the specified enthusiasm level */
     enthusiasmLevel?: number;
+    /** function that increments the number of exclamation marks */
     onIncrement?: () => void;
+    /** function that decrements the number of exclamation marks */
     onDecrement?: () => void;
 }
 

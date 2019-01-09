@@ -1,3 +1,5 @@
+// this component is currently not being used
+
 import * as React from 'react';
 import './Hello.css';
 
